@@ -2,7 +2,7 @@ from preprocessing import *
 from augmentation import *
 from model import *
 
-FILE_PATH = 'C:\\Users\\bjh71\\Downloads\\산업인공지능교육과정\\suface_crack'
+FILE_PATH = 'IMAGE_FILE_PATH'
 
 if __name__ == '__main__':
     # data preprocessing
